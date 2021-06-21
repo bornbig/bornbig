@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bornbig
 - 👀 I’m interested in blockchain inovation
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any interesting projects
 
 <!---
